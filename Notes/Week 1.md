@@ -49,3 +49,23 @@ With unsupervised learning there is no feedback based on the prediction results.
 
 **Non-clustering**: The "Cocktail Party Algorithm", allows you to find structure in a chaotic environment. (i.e. identifying individual voices and music from a mesh of sounds at a cocktail party).
 
+-------
+
+### Model Representation
+
+![Model Representation](/images/img1.png)
+![Model Representation](/images/img2.png)
+
+-------
+### Cost Function
+
+![Cost Function](/images/img3.png)
+
+### Cost Function Intuition I
+![Cost Function Intuition](/images/img4.png)
+
+### Cost Function Intuition II
+![Cost Function Intuition](/images/img5.png)
+
+--------
+
