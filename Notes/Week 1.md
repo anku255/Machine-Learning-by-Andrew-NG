@@ -68,4 +68,16 @@ With unsupervised learning there is no feedback based on the prediction results.
 ![Cost Function Intuition](/images/img5.png)
 
 --------
+### Gradient Descent
+![Gradient Descent](/images/img6.png)
+
+### Gradient Descent Intuition
+![Gradient Descent Intuition](/images/img7.png)
+
+### Gradient Descent for Linear Regression
+![Gradient Descent For Linear Regression](/images/img8.png)
+
+----------
+
+
 
