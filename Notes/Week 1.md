@@ -78,6 +78,23 @@ With unsupervised learning there is no feedback based on the prediction results.
 ![Gradient Descent For Linear Regression](/images/img8.png)
 
 ----------
+### Matrices and Vectors
+![Matrices and Vectors](/images/img9.png)
+
+### Addition and Scalar Mulitplication
+![Addition and Scalar Mulitplication](/images/img10.png)
+
+### Matrix Vector Multiplication
+![Matrix Vector Multiplication](/images/img11.png)
+
+### Matrix and Matrix Mulitplication
+![Matrix and Matrix Mulitplication](/images/img12.png)
+
+### Matrix Mulitplication Properties
+![Matrix Mulitplication Properties](/images/img13.png)
+
+### Inverse and Transpose
+![Inverse and Transpose](/images/img14.png)
 
 
 
