@@ -1,3 +1,21 @@
+## Table of Contents
+* [What is Machine Learning?](#what-is-machine-learning)
+* [Supervised Learning](#supervised-learning)
+* [Unsupervised Learning](#unsupervised-learning)
+* [Model Representation](#model-representation)
+* [Cost Function](#cost-function)
+* [Cost Function Intuition I](#cost-function-intuition-i)
+* [Cost Function Intuition II](#cost-function-intuition-ii)
+* [Gradient Descent](#gradient-descent)
+* [Gradient Descent Intuition](#gradient-descent-intuition)
+* [Gradient Descent for Linear Regression](#gradient-descent-for-linear-regression)
+* [Matrices and Vectors](#matrices-and-vectors)
+* [Addition and Scalar Mulitplication](#addition-and-scalar-mulitplication)
+* [Matrix Vector Multiplication](#matrix-vector-multiplication)
+* [Matrix and Matrix Mulitplication](#matrix-and-matrix-mulitplication)
+* [Matrix Mulitplication Properties](#matrix-mulitplication-properties)
+* [Inverse and Transpose](#inverse-and-transpose)
+
 ## What is Machine Learning?
 Two definitions of Machine Learning are offered. Arthur Samuel described it as: "the field of study that gives computers the ability to learn without being explicitly programmed." This is an older, informal definition.
 
